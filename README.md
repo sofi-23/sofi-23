@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a Junior Front-End Developer ✨ 
+
+##Find me at:
+
+https://img.shields.io/badge/Linkedin-Linkedin-00000
 <!--
 **sofi-23/sofi-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
