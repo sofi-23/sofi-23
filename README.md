@@ -4,7 +4,11 @@ I'm a Junior Front-End Developer ✨
 
 ##Find me at:
 
-https://img.shields.io/badge/Linkedin-Linkedin-00000
+https://linkedin.com/in/sofiaconstenla
+
+##Skills: 
+
+React js, HTML5, CSS, Javascript(ES6), Bootstrap, Jquery, Firebase
 <!--
 **sofi-23/sofi-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
