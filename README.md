@@ -8,7 +8,7 @@ https://linkedin.com/in/sofiaconstenla
 
 ##Skills: 
 
-React js, HTML5, CSS, Javascript(ES6), Bootstrap, Jquery, Firebase
+React js, HTML5, CSS, Javascript(ES6), Bootstrap, Jquery, Firebase, SASS, Git
 <!--
 **sofi-23/sofi-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
