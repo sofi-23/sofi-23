@@ -2,11 +2,11 @@
 
 I'm a Junior Front-End Developer ✨ 
 
-##Find me at:
+### Find me at:
 
 https://linkedin.com/in/sofiaconstenla
 
-##Skills: 
+### Skills: 
 
 React js, HTML5, CSS, Javascript(ES6), Bootstrap, Jquery, Firebase, SASS, Git
 <!--
