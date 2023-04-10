@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Junior Front-End Developer ✨ 
+I'm a Junior Full Stack Developer ✨ 
 
 ### Find me at:
 
@@ -8,7 +8,9 @@ https://linkedin.com/in/sofiaconstenla
 
 ### Skills: 
 
-React js, HTML5, CSS, Javascript(ES6), Bootstrap, Jquery, Firebase, SASS, Git
+React js, HTML5, CSS, Javascript(ES6), Bootstrap, Jquery, Firebase, SASS, Git, Azure Fundamentals.
+
+Currently deepening my knowledge in .Net and studying for the AZ-204 Microsoft exam. 
 <!--
 **sofi-23/sofi-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
